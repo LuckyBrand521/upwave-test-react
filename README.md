@@ -1,4 +1,4 @@
-# Upware Test :sparkles:
+# Upwave Test :sparkles:
 
 ## Table of contents
 * [General Info](#General-Info)
